@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mineral Prospectivity Modelling | SWgeoscience</title>
-    <link>/research/mineral-prospectivity-modelling/</link>
-      <atom:link href="/research/mineral-prospectivity-modelling/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://swgeoscience.github.io/research/mineral-prospectivity-modelling/</link>
+      <atom:link href="https://swgeoscience.github.io/research/mineral-prospectivity-modelling/index.xml" rel="self" type="application/rss+xml" />
     <description>Mineral Prospectivity Modelling</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://swgeoscience.github.io/img/icon-192.png</url>
       <title>Mineral Prospectivity Modelling</title>
-      <link>/research/mineral-prospectivity-modelling/</link>
+      <link>https://swgeoscience.github.io/research/mineral-prospectivity-modelling/</link>
     </image>
     
   </channel>

@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SWgeoscience</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://swgeoscience.github.io/</link>
+      <atom:link href="https://swgeoscience.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>SWgeoscience</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://swgeoscience.github.io/img/icon-192.png</url>
       <title>SWgeoscience</title>
-      <link>/</link>
+      <link>https://swgeoscience.github.io/</link>
     </image>
     
     <item>
       <title>Rhenohercynian Tectonic Framework</title>
-      <link>/swegeology/01_rhenoherynian/</link>
+      <link>https://swgeoscience.github.io/swegeology/01_rhenoherynian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/swegeology/01_rhenoherynian/</guid>
+      <guid>https://swgeoscience.github.io/swegeology/01_rhenoherynian/</guid>
       <description>&lt;p&gt;This page is under construction&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Devonian-Carboniferous Sedimentary Basins</title>
-      <link>/swegeology/02_dcbasins/</link>
+      <link>https://swgeoscience.github.io/swegeology/02_dcbasins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/swegeology/02_dcbasins/</guid>
+      <guid>https://swgeoscience.github.io/swegeology/02_dcbasins/</guid>
       <description>&lt;p&gt;This page is under construction&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Variscan Tectonics</title>
-      <link>/swegeology/03_variscan/</link>
+      <link>https://swgeoscience.github.io/swegeology/03_variscan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/swegeology/03_variscan/</guid>
+      <guid>https://swgeoscience.github.io/swegeology/03_variscan/</guid>
       <description>&lt;p&gt;This page is under construction&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Permian Magmatism</title>
-      <link>/swegeology/04_permian/</link>
+      <link>https://swgeoscience.github.io/swegeology/04_permian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/swegeology/04_permian/</guid>
+      <guid>https://swgeoscience.github.io/swegeology/04_permian/</guid>
       <description>&lt;p&gt;This page is under construction
 &lt;figure&gt;
- &lt;img src=&#34;/img/megiliggar.jpg&#34; alt=&#34;Granitic aplie-pegmatite boulder at Megiliggar Rocks&#34;&gt;
+ &lt;img src=&#34;https://swgeoscience.github.io/img/megiliggar.jpg&#34; alt=&#34;Granitic aplie-pegmatite boulder at Megiliggar Rocks&#34;&gt;
  &lt;figcaption&gt;
  Granitic aplie-pegmatite boulder at Megiliggar Rocks &amp;copy; Chris Yeomans (2019)
  &lt;/figcaption&gt;
@@ -56,27 +56,27 @@
     
     <item>
       <title>Mineralisation in SW England</title>
-      <link>/swegeology/05_mineralisation/</link>
+      <link>https://swgeoscience.github.io/swegeology/05_mineralisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/swegeology/05_mineralisation/</guid>
+      <guid>https://swgeoscience.github.io/swegeology/05_mineralisation/</guid>
       <description>&lt;p&gt;This page is under construction&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cenozoic Reactivation</title>
-      <link>/swegeology/06_cenozoic/</link>
+      <link>https://swgeoscience.github.io/swegeology/06_cenozoic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/swegeology/06_cenozoic/</guid>
+      <guid>https://swgeoscience.github.io/swegeology/06_cenozoic/</guid>
       <description>&lt;p&gt;This page is under construction&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>01_Devonian</title>
-      <link>/post/01-devonian/</link>
+      <link>https://swgeoscience.github.io/post/01-devonian/</link>
       <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/post/01-devonian/</guid>
+      <guid>https://swgeoscience.github.io/post/01-devonian/</guid>
       <description>
 
 &lt;h2 id=&#34;erm&#34;&gt;Erm&lt;/h2&gt;
@@ -87,9 +87,9 @@
     
     <item>
       <title>Geothermal Energy Exploration</title>
-      <link>/post/geothermal-energy-exploration/</link>
+      <link>https://swgeoscience.github.io/post/geothermal-energy-exploration/</link>
       <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/post/geothermal-energy-exploration/</guid>
+      <guid>https://swgeoscience.github.io/post/geothermal-energy-exploration/</guid>
       <description></description>
     </item>
     
