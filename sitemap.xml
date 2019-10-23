@@ -3,51 +3,108 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://swgeoscience.github.io/authors/admin/</loc>
+    <loc>/swegeology/01_rhenoherynian/</loc>
   </url>
   
   <url>
-    <loc>https://swgeoscience.github.io/authors/</loc>
+    <loc>/swegeology/02_dcbasins/</loc>
   </url>
   
   <url>
-    <loc>https://swgeoscience.github.io/categories/</loc>
+    <loc>/swegeology/03_variscan/</loc>
   </url>
   
   <url>
-    <loc>https://swgeoscience.github.io/research/geothermal/</loc>
+    <loc>/swegeology/04_permian/</loc>
   </url>
   
   <url>
-    <loc>https://swgeoscience.github.io/research/mineral-prospectivity-modelling/</loc>
+    <loc>/swegeology/05_mineralisation/</loc>
   </url>
   
   <url>
-    <loc>https://swgeoscience.github.io/post/</loc>
+    <loc>/swegeology/06_cenozoic/</loc>
   </url>
   
   <url>
-    <loc>https://swgeoscience.github.io/publication_types/</loc>
+    <loc>/post/01-devonian/</loc>
+    <lastmod>2019-10-22T19:35:02+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swgeoscience.github.io/publication/</loc>
+    <loc>/categories/</loc>
+    <lastmod>2019-10-22T20:38:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swgeoscience.github.io/talk/</loc>
+    <loc>/post/geothermal-energy-exploration/</loc>
+    <lastmod>2019-10-22T20:38:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swgeoscience.github.io/research/</loc>
+    <loc>/post/</loc>
+    <lastmod>2019-10-22T20:38:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swgeoscience.github.io/</loc>
+    <loc>/categories/research/</loc>
+    <lastmod>2019-10-22T20:38:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swgeoscience.github.io/tags/</loc>
+    <loc>/tags/swegeology/</loc>
+    <lastmod>2019-10-22T19:35:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/swegeology/</loc>
+    <lastmod>2019-10-22T19:35:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-10-22T20:38:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-22T19:35:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/swegeology/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>/research/geothermal/</loc>
+  </url>
+  
+  <url>
+    <loc>/research/mineral-prospectivity-modelling/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/research/</loc>
   </url>
   
 </urlset>

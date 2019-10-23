@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SWEgeology | SWgeoscience</title>
+    <link>/categories/swegeology/</link>
+      <atom:link href="/categories/swegeology/index.xml" rel="self" type="application/rss+xml" />
+    <description>SWEgeology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>SWEgeology</title>
+      <link>/categories/swegeology/</link>
+    </image>
+    
+    <item>
+      <title>01_Devonian</title>
+      <link>/post/01-devonian/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/post/01-devonian/</guid>
+      <description>
+
+&lt;h2 id=&#34;erm&#34;&gt;Erm&lt;/h2&gt;
+
+&lt;p&gt;It began in the Devonian&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
