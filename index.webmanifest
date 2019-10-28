@@ -2,8 +2,8 @@
   "name": "SWgeoscience",
   "short_name": "SWgeoscience",
   "lang": "en-us",
-  "theme_color": "#795548",
-  "background_color": "#795548",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",
