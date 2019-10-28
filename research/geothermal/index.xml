@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geothermal | SWgeoscience</title>
-    <link>/research/geothermal/</link>
-      <atom:link href="/research/geothermal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://swgeoscience.github.io/research/geothermal/</link>
+      <atom:link href="https://swgeoscience.github.io/research/geothermal/index.xml" rel="self" type="application/rss+xml" />
     <description>Geothermal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://swgeoscience.github.io/img/icon-192.png</url>
       <title>Geothermal</title>
-      <link>/research/geothermal/</link>
+      <link>https://swgeoscience.github.io/research/geothermal/</link>
     </image>
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research | SWgeoscience</title>
-    <link>/categories/research/</link>
-      <atom:link href="/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://swgeoscience.github.io/categories/research/</link>
+      <atom:link href="https://swgeoscience.github.io/categories/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://swgeoscience.github.io/img/icon-192.png</url>
       <title>Research</title>
-      <link>/categories/research/</link>
+      <link>https://swgeoscience.github.io/categories/research/</link>
     </image>
     
     <item>
       <title>Geothermal Energy Exploration</title>
-      <link>/post/geothermal-energy-exploration/</link>
+      <link>https://swgeoscience.github.io/post/geothermal-energy-exploration/</link>
       <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/post/geothermal-energy-exploration/</guid>
+      <guid>https://swgeoscience.github.io/post/geothermal-energy-exploration/</guid>
       <description></description>
     </item>
     
