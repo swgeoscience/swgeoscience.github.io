@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A Review of the Geology and Mineralisation of SW England | SWgeoscience</title>
-    <link>https://swgeoscience.github.io/swegeology/</link>
-      <atom:link href="https://swgeoscience.github.io/swegeology/index.xml" rel="self" type="application/rss+xml" />
+    <link>/swegeology/</link>
+      <atom:link href="/swegeology/index.xml" rel="self" type="application/rss+xml" />
     <description>A Review of the Geology and Mineralisation of SW England</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://swgeoscience.github.io/img/porthcurnoheader.jpg</url>
+      <url>/img/porthcurnoheader.jpg</url>
       <title>A Review of the Geology and Mineralisation of SW England</title>
-      <link>https://swgeoscience.github.io/swegeology/</link>
+      <link>/swegeology/</link>
     </image>
     
     <item>
       <title>Rhenohercynian Tectonic Framework</title>
-      <link>https://swgeoscience.github.io/swegeology/01_rhenoherynian/</link>
+      <link>/swegeology/01_rhenoherynian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://swgeoscience.github.io/swegeology/01_rhenoherynian/</guid>
+      <guid>/swegeology/01_rhenoherynian/</guid>
       <description>
 
 &lt;h2 id=&#34;the-rhenohercynian-tectonic-framework&#34;&gt;The Rhenohercynian Tectonic Framework&lt;/h2&gt;
@@ -59,7 +59,7 @@ be satisfactorily explained (Holder and Leveridge, 1986; Leveridge and
 Shail, 2011; Woodcock et al., 2007).&lt;/p&gt;
 
 &lt;figure&gt;
- &lt;img src=&#34;https://swgeoscience.github.io/img/sweg/PrettaniaModels.png&#34; alt=&#34;Prettania&#34;&gt;
+ &lt;img src=&#34;/img/sweg/PrettaniaModels.png&#34; alt=&#34;Prettania&#34;&gt;
  &lt;figcaption&gt;
  &lt;i&gt;Figure 1&lt;/i&gt; From Woodcock, Soper, and Strachan (2007) describing the possible
 models for the removal of Prettania and translation of Rhenohercynian
@@ -102,7 +102,7 @@ subduction along the Bray segment of the Rhenohercynian suture which may
 add credence to these models (Averbuch and Piromallo, 2012).&lt;/p&gt;
 
 &lt;figure&gt;
- &lt;img src=&#34;https://swgeoscience.github.io/img/sweg/ShailModels.png&#34; alt=&#34;ShailModels&#34;&gt;
+ &lt;img src=&#34;/img/sweg/ShailModels.png&#34; alt=&#34;ShailModels&#34;&gt;
  &lt;figcaption&gt;
  &lt;i&gt;Figure 2&lt;/i&gt; Cartoon of possible models of Rhenohercynian Zone (RHZ, in yellow)
 tectonic development with respect to Rheic Ocean closure Eastern
@@ -171,9 +171,9 @@ London&lt;/em&gt; 164: 1023&amp;ndash;36.&lt;/p&gt;
     
     <item>
       <title>Devonian-Carboniferous Sedimentary Basins</title>
-      <link>https://swgeoscience.github.io/swegeology/02_dcbasins/</link>
+      <link>/swegeology/02_dcbasins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://swgeoscience.github.io/swegeology/02_dcbasins/</guid>
+      <guid>/swegeology/02_dcbasins/</guid>
       <description>
 
 &lt;p&gt;The Cornubian passive margin succession accumulated in six E-W trending
@@ -197,7 +197,7 @@ basins, structurally controlled topographic highs are observed, although
 much of the exposures are occluded by later basin inversion.&lt;/p&gt;
 
 &lt;figure&gt;
- &lt;img src=&#34;https://swgeoscience.github.io/img/sweg/SWEgeology.png&#34; alt=&#34;SWEgeology&#34;&gt;
+ &lt;img src=&#34;/img/sweg/SWEgeology.png&#34; alt=&#34;SWEgeology&#34;&gt;
  &lt;figcaption&gt;
  &lt;i&gt;Figure 1&lt;/i&gt; Figure modified from Shail and Leveridge (2009) and originally based on
 Leveridge and Hartley (2006) showing the arrangement of
@@ -351,9 +351,9 @@ Association 122, 718&amp;ndash;744.
     
     <item>
       <title>Variscan Tectonics</title>
-      <link>https://swgeoscience.github.io/swegeology/03_variscan/</link>
+      <link>/swegeology/03_variscan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://swgeoscience.github.io/swegeology/03_variscan/</guid>
+      <guid>/swegeology/03_variscan/</guid>
       <description>
 
 &lt;p&gt;The Variscan Orogeny is first recorded in syn-collisional sedimentation
@@ -503,7 +503,7 @@ nappes the most unusual are the Lizard and Start nappes which are
 characterised by &amp;ldquo;complexes&amp;rdquo;.&lt;/p&gt;
 
 &lt;figure&gt;
- &lt;img src=&#34;https://swgeoscience.github.io/img/sweg/ThrustsFigure.png&#34; alt=&#34;Prettania&#34;&gt;
+ &lt;img src=&#34;/img/sweg/ThrustsFigure.png&#34; alt=&#34;Prettania&#34;&gt;
  &lt;figcaption&gt;
  &lt;i&gt;Figure 1&lt;/i&gt; Thrust nappes in SW England resulting from Variscan convergence and
 tectonically emplacing allochthonous terranes in south Cornwall
@@ -550,7 +550,7 @@ fault mapping is presented in
 Figure 2.&lt;/p&gt;
 
 &lt;figure&gt;
- &lt;img src=&#34;https://swgeoscience.github.io/img/sweg/FigureNWSEfaultsEdit.png&#34; alt=&#34;Prettania&#34;&gt;
+ &lt;img src=&#34;/img/sweg/FigureNWSEfaultsEdit.png&#34; alt=&#34;Prettania&#34;&gt;
  &lt;figcaption&gt;
  &lt;i&gt;Figure 2&lt;/i&gt; NW-SE regional fault mapping digitised and compiled from Dearman (1963),
 Sanderson and Dearman (1973), Walsh et al. (1987) Jackson et al. (1989)
@@ -664,7 +664,7 @@ Figure 3.&lt;/p&gt;
 &lt;/table&gt;&lt;/p&gt;
 
 &lt;figure&gt;
- &lt;img src=&#34;https://swgeoscience.github.io/img/sweg/structureCraigmodelsedit.png&#34; alt=&#34;strucutre&#34;&gt;
+ &lt;img src=&#34;/img/sweg/structureCraigmodelsedit.png&#34; alt=&#34;strucutre&#34;&gt;
  &lt;figcaption&gt;
  &lt;i&gt;Figure 3&lt;/i&gt; Schematic illustrations of the kinematics and structures generated
 during Variscan extension (D3-D6). Adapted from Craig (2018) after Shail
@@ -998,9 +998,9 @@ Geological Society, London 146, 739&amp;ndash;742.
     
     <item>
       <title>Permian Magmatism</title>
-      <link>https://swgeoscience.github.io/swegeology/04_permian/</link>
+      <link>/swegeology/04_permian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://swgeoscience.github.io/swegeology/04_permian/</guid>
+      <guid>/swegeology/04_permian/</guid>
       <description>
 
 &lt;p&gt;The latest Carboniferous marked the onset of bimodal magmatism in SW
@@ -1016,7 +1016,7 @@ to as &amp;ldquo;elvans&amp;rdquo;) which are illustrated in
 Figure 1.&lt;/p&gt;
 
 &lt;figure&gt;
- &lt;img src=&#34;https://swgeoscience.github.io/img/sweg/FigureGraniteLampsElvansSchematic.png&#34; alt=&#34;GranitesAndLamps&#34;&gt;
+ &lt;img src=&#34;/img/sweg/FigureGraniteLampsElvansSchematic.png&#34; alt=&#34;GranitesAndLamps&#34;&gt;
  &lt;figcaption&gt;
  &lt;i&gt;Figure 1&lt;/i&gt; Schematic map showing the significant lamprophyre dykes and lavas of the
 Exeter Volcanic Group and the surface crop of the Cornubian Batholith
@@ -1207,7 +1207,7 @@ distribution of these, and various subclasses over the region;
 illustrated in Figure 2.&lt;/p&gt;
 
 &lt;figure&gt;
- &lt;img src=&#34;https://swgeoscience.github.io/img/sweg/SimonsMap.png&#34; alt=&#34;Simons&#34;&gt;
+ &lt;img src=&#34;/img/sweg/SimonsMap.png&#34; alt=&#34;Simons&#34;&gt;
  &lt;figcaption&gt;
  &lt;i&gt;Figure 2&lt;/i&gt; Granite classification by Simons et al. (2016) defining five granite
 types (G1-G5), with subtypes, for the whole granite batholith.
@@ -1557,7 +1557,7 @@ structure, a volume for the batholith was calculated and estimated to be
 of the order of 68,000 km^3^ with a thickness of 8 to 22 km.&lt;/p&gt;
 
 &lt;figure&gt;
- &lt;img src=&#34;https://swgeoscience.github.io/img/sweg/GravityModel.jpg&#34; alt=&#34;gravitymodel&#34;&gt;
+ &lt;img src=&#34;/img/sweg/GravityModel.jpg&#34; alt=&#34;gravitymodel&#34;&gt;
  &lt;figcaption&gt;
  &lt;i&gt;Figure 3&lt;/i&gt; Granite surface model based on regional gravity modelling by
 Willis-Richards and Jackson (1989). The model demonstrates the linking
@@ -1763,9 +1763,9 @@ Distribution. Economic Geology 84, 1078&amp;ndash;1100.&lt;/p&gt;
     
     <item>
       <title>Mineralisation in SW England</title>
-      <link>https://swgeoscience.github.io/swegeology/05_mineralisation/</link>
+      <link>/swegeology/05_mineralisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://swgeoscience.github.io/swegeology/05_mineralisation/</guid>
+      <guid>/swegeology/05_mineralisation/</guid>
       <description>
 
 &lt;p&gt;SW England hosts the Cornubian Orefield, a world-class Sn-W-Cu province
@@ -1776,7 +1776,7 @@ summary of the major mining districts of SW England is presented in
 Figure 1.&lt;/p&gt;
 
 &lt;figure&gt;
- &lt;img src=&#34;https://swgeoscience.github.io/img/sweg/FigureSWmineralisationEdit.png&#34; alt=&#34;SWEmineralisation&#34;&gt;
+ &lt;img src=&#34;/img/sweg/FigureSWmineralisationEdit.png&#34; alt=&#34;SWEmineralisation&#34;&gt;
  &lt;figcaption&gt;
  &lt;i&gt;Figure 1&lt;/i&gt; Distribution of mineralisation in SW England and the associated historic
 mining districts. Redrawn from Shail et al. (2014) and based on Dines
@@ -1788,7 +1788,7 @@ mining districts. Redrawn from Shail et al. (2014) and based on Dines
 area with the vast majority of deposits showing some degree of
 structural control. The development of the regional fault network and
 relationship to mineralised structures is illustrated in
-the &lt;a href=&#34;https://swgeoscience.github.io/swegeology/03_variscan/&#34; target=&#34;_blank&#34;&gt;Variscan Tectonics&lt;/a&gt; section and based on
+the &lt;a href=&#34;/swegeology/03_variscan/&#34; target=&#34;_blank&#34;&gt;Variscan Tectonics&lt;/a&gt; section and based on
 work by Shail and Alexander (1997) and Craig (2018). These are broadly
 aligned with the tectonic models of Hughes (2018), however,
 special exception surrounds the timing of D5 structures and
@@ -2090,7 +2090,7 @@ allowed the percolation of meteoric fluids resulting in subsequent
 supergene alteration and re-equilibration of hydrogen isotopes.&lt;/p&gt;
 
 &lt;figure&gt;
- &lt;img src=&#34;https://swgeoscience.github.io/img/sweg/KaoliniteModel.jpg&#34; alt=&#34;KaoliniteModel&#34;&gt;
+ &lt;img src=&#34;/img/sweg/KaoliniteModel.jpg&#34; alt=&#34;KaoliniteModel&#34;&gt;
  &lt;figcaption&gt;
  &lt;i&gt;Figure 2&lt;/i&gt; Kaolinisation of granites in SW England from Psyrillos et al. (2003)
 demonstrating the requirement of meteoric water and basinal brines
@@ -2351,9 +2351,9 @@ Distribution. Economic Geology 84, 1078&amp;ndash;1100.&lt;/p&gt;
     
     <item>
       <title>Cenozoic Reactivation</title>
-      <link>https://swgeoscience.github.io/swegeology/06_cenozoic/</link>
+      <link>/swegeology/06_cenozoic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://swgeoscience.github.io/swegeology/06_cenozoic/</guid>
+      <guid>/swegeology/06_cenozoic/</guid>
       <description>
 
 &lt;p&gt;The Cenozoic era is characterised in SW England by reactivation of
@@ -2402,7 +2402,7 @@ at shallow crustal depths (&amp;lt;10 km) which may indicate open fractures, a
 key target for in geothermal energy exploration.&lt;/p&gt;
 
 &lt;figure&gt;
- &lt;img src=&#34;https://swgeoscience.github.io/img/sweg/FigureSeismicEvents2edit.png&#34; alt=&#34;SeismicEvents&#34;&gt;
+ &lt;img src=&#34;/img/sweg/FigureSeismicEvents2edit.png&#34; alt=&#34;SeismicEvents&#34;&gt;
  &lt;figcaption&gt;
  &lt;i&gt;Figure 1&lt;/i&gt; Distribution of seismic events in SW England overlying digitised faults
 from Dearman (1963), Sanderson and Dearman (1973), Walsh et al. (1987),

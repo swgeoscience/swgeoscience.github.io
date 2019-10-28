@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SWEgeology | SWgeoscience</title>
-    <link>https://swgeoscience.github.io/categories/swegeology/</link>
-      <atom:link href="https://swgeoscience.github.io/categories/swegeology/index.xml" rel="self" type="application/rss+xml" />
+    <link>/categories/swegeology/</link>
+      <atom:link href="/categories/swegeology/index.xml" rel="self" type="application/rss+xml" />
     <description>SWEgeology</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://swgeoscience.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>SWEgeology</title>
-      <link>https://swgeoscience.github.io/categories/swegeology/</link>
+      <link>/categories/swegeology/</link>
     </image>
     
     <item>
       <title>01_Devonian</title>
-      <link>https://swgeoscience.github.io/post/01-devonian/</link>
+      <link>/post/01-devonian/</link>
       <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://swgeoscience.github.io/post/01-devonian/</guid>
+      <guid>/post/01-devonian/</guid>
       <description>
 
 &lt;h2 id=&#34;erm&#34;&gt;Erm&lt;/h2&gt;
